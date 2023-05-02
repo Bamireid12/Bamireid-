@@ -10,7 +10,7 @@
 /      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
 /                                                                                   / 
 /-----------------------------------------------------------------------------------/
-/ Author and Main Developer: FantoX                                                 /
+/ Author and Main Developer: Bamireid                                                /
 / Github: https://github.com/FantoX001/Atlas-MD                                     /
 / Powered By: Team ATLAS                                                            /
 /-----------------------------------------------------------------------------------/
@@ -67,7 +67,7 @@ Don't forget to change "charlist.js" and "setchar.js" insdide "Commands\Mods\"  
 
 
 global.charID0 = {
-    botName : "Atlas MD",
+    botName : "Sharon∆",
     botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
     botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
     botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
